@@ -1,0 +1,47 @@
+<?php
+$string['pluginname'] = 'Imtihon Natijalari Hisoboti';
+$string['reporttitle'] = 'Kunlik Imtihon Natijalari';
+$string['selectdate'] = 'Sanani tanlang';
+$string['showexams'] = 'Imtihonlarni ko\'rsatish';
+$string['noexams'] = 'Bu sanada imtihonlar topilmadi.';
+$string['examsfound'] = 'Topilgan imtihonlar:';
+$string['studentname'] = 'Imtihon topshiruvchi FIO';
+$string['username'] = 'ID raqam';
+$string['grade'] = 'Natija';
+$string['status'] = 'Holat';
+$string['viewresults'] = 'Natijalarni ko\'rish';
+$string['backtoexams'] = 'Imtihonlarga qaytish';
+$string['finished'] = 'Finished';
+$string['inprogress'] = 'In Progress';
+$string['preview'] = 'Preview';
+$string['course'] = 'Fan va yo`nalish';
+$string['quiz'] = 'Test sinovi';
+$string['email'] = 'Email';
+$string['timestart'] = 'Boshladi';
+$string['timefinish'] = 'Yakunlandi';
+$string['duration'] = 'Sarflangan vaqt';
+$string['status_finished'] = 'Yakunlangan';
+$string['status_inprogress'] = 'Davom etmoqda';
+$string['erisigned'] = 'Mazkur hujjat ERI orqali imzolangan';
+$string['invalidtoken'] = 'Invalid verification token.';
+$string['preview'] = 'Preview';
+
+// English line
+// $string['pluginname'] = 'Exam Results Report';
+// $string['reporttitle'] = 'Daily Exam Results Report';
+// $string['selectdate'] = 'Select Date';
+// $string['showexams'] = 'Show Exams';
+// $string['noexams'] = 'No exams found for this date.';
+// $string['examsfound'] = 'Exams found:';
+// $string['studentname'] = 'Student Name';
+// $string['username'] = 'Login';
+// $string['grade'] = 'Grade';
+// $string['status'] = 'Status';
+// $string['viewresults'] = 'View Results';
+// $string['backtoexams'] = 'Back to Exams';
+// $string['course'] = 'Course (Subject)';
+// $string['quiz'] = 'Quiz';
+// $string['email'] = 'Email';
+// $string['timestart'] = 'Started';
+// $string['timefinish'] = 'Completed';
+// $string['duration'] = 'Duration';

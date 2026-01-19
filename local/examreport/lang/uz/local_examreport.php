@@ -1,0 +1,27 @@
+<?php
+$string['pluginname'] = 'Imtihon Natijalari Hisoboti';
+$string['reporttitle'] = 'Kunlik Imtihon Natijalari';
+$string['selectdate'] = 'Sanani tanlang';
+$string['showexams'] = 'Imtihonlarni ko\'rsatish';
+$string['noexams'] = 'Bu sanada imtihonlar topilmadi.';
+$string['examsfound'] = 'Topilgan imtihonlar:';
+$string['studentname'] = 'Imtihon topshiruvchi FIO';
+$string['username'] = 'ID raqam';
+$string['grade'] = 'Natija';
+$string['status'] = 'Holat';
+$string['viewresults'] = 'Natijalarni ko\'rish';
+$string['backtoexams'] = 'Imtihonlarga qaytish';
+$string['finished'] = 'Yakunlangan';
+$string['inprogress'] = 'Jarayonda';
+$string['preview'] = 'Ko\'rish (Preview)';
+$string['course'] = 'Fan va yo`nalish';
+$string['quiz'] = 'Test sinovi';
+$string['email'] = 'Email';
+$string['timestart'] = 'Boshladi';
+$string['timefinish'] = 'Yakunlandi';
+$string['duration'] = 'Sarflangan vaqt';
+$string['status_finished'] = 'Yakunlangan';
+$string['status_inprogress'] = 'Davom etmoqda';
+$string['erisigned'] = 'Mazkur hujjat ERI orqali imzolangan';
+$string['invalidtoken'] = 'Tasdiqlash kodi noto\'g\'ri.';
+$string['preview'] = 'Ko\'rish (Preview)';

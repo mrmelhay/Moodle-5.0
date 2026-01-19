@@ -1,0 +1,29 @@
+/* Highlight the active quiz in the list */
+.path-local-examreport .list-group-item.active {
+    background-color: #0f6cbf; /* Moodle Blue */
+    border-color: #0f6cbf;
+    color: white;
+}
+
+/* Table Enhancements */
+.path-local-examreport table.generaltable {
+    width: 100%;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.path-local-examreport table.generaltable thead th {
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    font-weight: bold;
+}
+
+/* Status Badges */
+.path-local-examreport .status-finished {
+    color: #198754;
+    font-weight: bold;
+}
+.path-local-examreport .status-inprogress {
+    color: #fd7e14;
+    font-weight: bold;
+}
