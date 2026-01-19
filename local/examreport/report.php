@@ -123,7 +123,7 @@ if ($download === 'pdf') {
     // Place QR code below text
     $pdf->write2DBarcode($qrcontent, 'QRCODE,H', $pdf->GetX(), $pdf->GetY(), 30, 30, $style, 'N');
     
-    $pdf->Output($quiz->name . '.pdf', 'D');
+    $pdf->Output($category->name. ' - ' . $course->fullname . '.pdf', 'D');
     die();
 }
 
